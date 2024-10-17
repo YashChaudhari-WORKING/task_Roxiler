@@ -1,30 +1,26 @@
-# Project Name
-Transaction Dashboard with analysis
 
-# Installation
+## ⚙️ Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
    ```bash
-   git clone (https://github.com/YashChaudhari-WORKING/task_Roxiler)
-   
+   git clone https://github.com/YashChaudhari-WORKING/task_Roxiler
+
 2. Install dependencies:
+   ```
+   npm install
 
-npm install
 
+**🚀 Running the Application**
 
-
-Running the Application
-
-#Backend
-
+**Backend**
 Start the backend using nodemon:
+   
+    nodemon index.js
 
-nodemon index.js
-
-#Frontend
+**Frontend**
 
 Start the frontend:
+    
+    npm run dev
 
-npm run dev
 
- 
